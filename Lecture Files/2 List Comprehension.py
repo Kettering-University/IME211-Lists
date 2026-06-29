@@ -57,7 +57,7 @@ matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 flattened = [num for row in matrix for num in row]
 print("Flattened matrix:", flattened)
 
-# TODO: Activity 4 - List Comprehension with Nested Conditions
+# TODO: Activity 3 - List Comprehension with Nested Conditions
 # First, create a nested list (matrix) with 3 rows, each containing numbers from 1 to 3.
 # Next, use list comprehension to create a list of these numbers squared, but only if the number is even.
 # Your code here:
