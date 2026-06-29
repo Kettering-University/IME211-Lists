@@ -83,7 +83,7 @@ print(replicated_items)
 for item in inventory_items:
     print(f"Inventory item: {item}")
 
-# TODO: Activity 4 - Check Tools
+# TODO: Activity 5 - Check Tools
 # First, iterate over `tools` and print each tool with a message indicating it is in stock.
 # Your code here:
 
@@ -98,7 +98,7 @@ for item in inventory_items:
 print(len(inventory_items))  # Prints the number of items in inventory
 print("helmet" in inventory_items)  # Checks if "helmet" is in inventory
 
-# TODO: Activity 5 - Drill Check
+# TODO: Activity 6 - Drill Check
 # First, print the total number of items in `tools`.
 # Next, check if "drill" is in the tools list and print a corresponding message.
 # Your code here:
